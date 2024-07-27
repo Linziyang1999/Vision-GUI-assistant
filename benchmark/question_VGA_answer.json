@@ -1,0 +1,222 @@
+[
+    {
+        "image": "0071914.jpg",
+        "question": "which cilck to score?",
+        "answer": "You should click the button in the middle left of the screen with write text \"dictado\"."
+    },
+    {
+        "image": "0071914.jpg",
+        "question": "What kind of app is this page from?",
+        "answer": "This page is most likely from a language learning app."
+    },
+    {
+        "image": "0071918.jpg" ,
+        "question": "How can I view the favourite palces?",
+        "answer": "You can click on the \"My Liked Places\" button at the bottom of the page with a red heart icon."
+    },
+    {
+        "image": "0071918.jpg" ,
+        "question": "Which place is popular this week?",
+        "answer": "According to the information displayed at the middle of the interface, San Francisco is trending this week."
+    },
+    {
+        "image": "0071921.jpg" ,
+        "question": "How can i register with a third-party account?",
+        "answer": "You can register for an account by clicking on the button in the middle of the page. By clicking on the blue \"F\" button, you can register using your Facebook account. By clicking on the red \"G\" button, you can register using your Google account. By clicking on the gray email button, you can register using your email address."
+    },
+    {
+        "image": "0071921.jpg" ,
+        "question": "If I have already registered an account, how can I log in to this app?",
+        "answer": "You can click on the blue \"SIGN IN\" text button in the lower right corner and then log in."
+    },
+    {
+        "image": "0071922.jpg" ,
+        "question": "If I want to find a place to eat at noon, how can I use this app to help me?",
+        "answer": "You can click on the \"Lunch\" button in the middle of the second row, below the search bar, to search for places to have lunch."
+    },
+    {
+        "image": "0071922.jpg" ,
+        "question": "What should I do if I want to find a gym?",
+        "answer": "You can search for gyms by typing \"gym\" in the search bar in the middle of the screen"
+    },
+    {
+        "image": "0071938.jpg",
+        "question": "How can I play all songs currently available in a random order?",
+        "answer": "You can click on the \"Shuffle All\" button at the top of the interface to play all three songs in the current playlist in a random order."
+    },
+    {
+        "image": "0071938.jpg" ,
+        "question": "What kind of app is this page from?",
+        "answer": "This page is most likely from a music app."
+    },
+    {
+        "image": "0071948.jpg" ,
+        "question": "What are the steps to use this song as my phone's ringtone after selecting it and coming to this interface?",
+        "answer": "Please click on the \"Set As Ringtone\" button located above the \"Share\" button and below the \"Edit Lyric\" button to set the currently selected song as your phone's ringtone."
+    },
+    {
+        "image": "0071948.jpg" ,
+        "question": "I selected a song and came to this interface. How can I remove the chosen song?",
+        "answer": "You can click on the \"Delete\" button located at the bottom of the current interface to remove this song."
+    },
+    {
+        "image": "0071954.jpg" ,
+        "question": "What should I do to search for a specific song?",
+        "answer": "You can click on the button with \"magnifying glass\" icon in the upper right corner to search for a specific song."
+    },
+    {
+        "image": "0071954.jpg" ,
+        "question": "Is it possible for this software to keep track of the songs I play the most? If yes, how can I access and listen to them?",
+        "answer": "This software can record your most played songs. You can click on the green button located in the middle-right of the interface, with text \"Most Played\", to play your most played songs."
+    },
+    {
+        "image": "0071959.jpg" ,
+        "question": "I just accidentally clicked on the delete button. How can I undo this action?",
+        "answer": "You can click on the \"Cancel\" button located at the bottom-right corner of the pop-up window to cancel the delete operation."
+    },
+    {
+        "image": "0071959.jpg" ,
+        "question": "Why does a pop-up window appear on the interface?",
+        "answer": "A pop-up window appears because you just clicked on the delete button. The application is confirming with you whether you want to delete the selected song. If you click \"OK\" located at the bottom-right corner of the pop-up window, the application will delete the song. But, if you click \"Cancel\" located at the bottom-right corner of the pop-up window, the delete operation will be undone, and you can select to delete song file at the same time."
+    },
+    {
+        "image": "0071970.jpg" ,
+        "question": "Which team's data is currently being displayed in the middle of the page?",
+        "answer": "According to the text in the upper-left corner of the interface, the currently displayed team is the DALLAS COWBOYS."
+    },
+    {
+        "image": "0071970.jpg" ,
+        "question": "How many games have the Cowboys won and lost in the bottom?",
+        "answer": "According to the list at the bottom of the screen, the Dallas Cowboys have won 13 games and lost 3 games."
+    },
+    {
+        "image": "0071979.jpg" ,
+        "question": "Which two teams will play against each other in Aug, 14th?",
+        "answer": "According to the first item in the list on the interface, the Cowboys and Rams will have a game on August 14th."
+    },
+    {
+        "image": "0071979.jpg" ,
+        "question": "On which day of the week and date is the game between the Texans and Cowboys?",
+        "answer": "According to the last item in the list on the interface, the Texans and Cowboys will have a game on Friday, September 2nd."
+    },
+    {
+        "image": "0072021.jpg" ,
+        "question": "How old is AGUAVIVA?",
+        "answer": "According to the fourth item in the list, AGUAVIVA is 45 years old."
+    },
+    {
+        "image": "0072021.jpg" ,
+        "question": "Which user is 51 years old?",
+        "answer": "According to the second item in the list, CAMBALACHE is 51 years old."
+    },
+    {
+        "image": "0072042.jpg" ,
+        "question": "What date does this app say the next period will be?",
+        "answer": "Next cycle is 29-Dec."
+    },
+    {
+        "image": "0072042.jpg" ,
+        "question": "What's the app for?",
+        "answer": "This app is used to record menstrual cycles."
+    },
+    {
+        "image": "0072060.jpg" ,
+        "question": "What the day and date of the weekend before I selected in the middle of the page?",
+        "answer": "it is SAT, Apr 9, 2016"
+    },
+    {
+        "image": "0072060.jpg" ,
+        "question": "What day is it today?",
+        "answer": "it is Mon, Apr 10, 2017"
+    },
+    {
+        "image": "0072063.jpg" ,
+        "question": "When my next confession begin?",
+        "answer": "The next confession time is not avaiable right now"
+    },
+    {
+        "image": "0072063.jpg" ,
+        "question": "When next mass begin?",
+        "answer": "The time next mass is 8:30am tomorrow"
+    },
+    {
+        "image": "0072064.jpg" ,
+        "question": "I want use a new email address that never used to log in, how can I do?",
+        "answer": "You can click the \"Create Account\" button bellow the \"SIGN IN\" button, on the bottom of the page."
+    },
+    {
+        "image": "0072064.jpg" ,
+        "question": "I forgot my password, what should I do?",
+        "answer": "You can click the \"Reset Password\" link to the bottom of the Password, on the right of the page."
+    },
+    {
+        "image": "0072065.jpg" , 
+        "question": "What should I do if I can't find my parish?",
+        "answer": "You can click the \"Send Sequest\" link in the right of the text \"Parish not listed\"."
+    },
+    {
+        "image": "0072065.jpg" ,
+        "question": "How can I find my Parish?",
+        "answer": "You can \"SEARCH\" button in the middle of the page with a blue text."  
+    },
+    {
+        "image": "0072080.jpg" ,
+        "question": "How can I remove the vehicle?",
+        "answer": "You can click the \"Delete Vehicle\" button on the right side in the third option of the dropdown menu "
+    },
+    {
+        "image": "0072080.jpg" ,
+        "question": "What this app can do?",
+        "answer": "This is an vechicle management app to record fuel consumption, you can see a mailbox icon and a notepad icon, also, you can add vehicles as well as delete them."
+    },
+    {
+        "image": "0072138.jpg" ,
+        "question": "How can I draw a picture?",
+        "answer": "You can the blue \"Start\" button bellow the dinosaur picture."
+    },
+    {
+        "image": "0072138.jpg" ,
+        "question": "Which color is chosen right now in the bottom?",
+        "answer": "You are chooing green color right now."
+    },
+    {
+        "image": "0072141.jpg" ,
+        "question": "Where can I find the work i drew?",
+        "answer": "You can click the \"My Work·\" button."
+    },
+    {
+        "image": "0072141.jpg" ,
+        "question": "How can I start Drawing?",
+        "answer": "You can click the orange \"Draw\" button in the bottom left corner of the page."
+    },
+    {
+        "image": "0072159.jpg" ,
+        "question": "The \"Crokpot for bachelors\" is intresting, I want see more.",
+        "answer": "You can click the green \"MORE\" button in the righe of the \"Crokpot for bachelors\"."
+    },
+    {
+        "image": "0072159.jpg" ,
+        "question": "Where is the \"Voice\" icon?",
+        "answer": "The voice button is in the bottom right corner with a blue color and write text and another is at the top right of the screen."
+    },
+    {
+        "image": "0072176.jpg" ,
+        "question": "Can you help me to create a new account?",
+        "answer": "You can click the orange \"Sign Me Up\" button in the middle of the page."
+    },
+    {
+        "image": "0072176.jpg" ,
+        "question": "How can I login if I already have a account",
+        "answer": "You can click the gray \"Already have an account\" button bellow the \"Sign Me Up\" button at the bottom of this page."
+    },
+    {
+        "image": "0072193.jpg" ,
+        "question": "Am I use current location right now?",
+        "answer": "Yes you are using you current location, the location icon is in the fist line named \"Use Current Location\"."
+    },
+    {
+        "image": "0072193.jpg" ,
+        "question": "I want use a new location, what should do?",
+        "answer": "You can click the \"Add location button\" at the bottom of the page."
+    }
+]
