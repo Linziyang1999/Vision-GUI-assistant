@@ -1,4 +1,4 @@
-# VGA-visual-GUI-assistant
+# [EMNLP2024] VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning
 ---
 ### Release
 - We release our dataset to ensure that everyone can replicate our experimental conclusions.
@@ -90,3 +90,16 @@ make sure you are using conv2.json
 ![Alt text](images/stage.png)
 
 
+# citation
+Please consider citing if you find our work useful:
+```
+@misc{meng2024vgavisionguiassistant,
+      title={VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning}, 
+      author={Ziyang Meng and Yu Dai and Zezheng Gong and Shaoxiong Guo and Minglong Tang and Tongquan Wei},
+      year={2024},
+      eprint={2406.14056},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.14056}, 
+}
+```
