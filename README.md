@@ -1,5 +1,11 @@
 # [EMNLP2024] VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning
----
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat-square)
+[![Research Paper](https://img.shields.io/badge/Paper-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2406.14056)
+[![Huggingface Dataset](https://img.shields.io/badge/Dataset-blue.svg?style=flat-square)](https://huggingface.co/datasets/zylate/Vision_GUI_Assistant)
+<!-- <div style="text-align: center; font-size:14pt">
+    <a href="https://arxiv.org/abs/2406.14056">Paper</a> | 
+    <a href="https://huggingface.co/datasets/zylate/Vision_GUI_Assistant">Huggingface Dataset</a>
+</div> -->
 ### Release
 - We release our dataset to ensure that everyone can replicate our experimental conclusions.
 
